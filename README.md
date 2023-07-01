@@ -4,6 +4,6 @@ Visualizations of Data Analytics
 #### The Power BI Dashboards demonstrates insights using visual types like Card, Matrix, Doughnut, Line Chart & Muti-Row Card,Map etc.
 #### Added useful Slicers to make the Dashboard filter the insights for the selected conditions using Slicers/ Filters.
 #### Published the Dashboard to the Power BI Services to be able to collaborate and work with teammates.
-#### [HR Dashboard] (https://github.com/ShreevaniRao/Power-BI/blob/main/HR/HR%20Data%20Reporting.pdf)
-#### [Road Accident Dashboard] (https://github.com/ShreevaniRao/Power-BI/blob/main/Road%20Accident/Road%20Accident%20Analysis.pdf)
+#### [HR Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/HR/HR%20Data%20Reporting.pdf)
+#### [Road Accident Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/Road%20Accident/Road%20Accident%20Analysis.pdf)
 
