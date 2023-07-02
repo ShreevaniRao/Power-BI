@@ -1,7 +1,7 @@
 # Power-BI
 ## Visualizations of Data Analytics
 #### Created highly insightful and interactive Dashboards using Power BI desktop to highlight the KPI details for the factors behind road accidents in UK using a large dataset & HR Dataset.
-#### The Power BI Dashboards demonstrates insights using visual types like Card, Matrix, Doughnut, Line Chart & Muti-Row Card,Map etc.
+#### The Power BI Dashboards demonstrates insights using visual types like Card, Matrix, Doughnut, Line Chart & Multi-Row Card,Map etc.
 #### Added useful Slicers to make the Dashboard filter the insights for the selected conditions using Slicers/ Filters.
 #### Published the Dashboard to the Power BI Services to be able to collaborate and work with teammates.
 #### [HR Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/HR/HR%20Data%20Reporting.pdf)
