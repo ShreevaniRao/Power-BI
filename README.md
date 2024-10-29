@@ -6,5 +6,5 @@
 * #### Published the Dashboard to the Power BI Services to be able to collaborate and work with teammates.
 * #### [HR Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/HR/HR%20Data%20Reporting.pdf)
 * #### [Road Accident Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/Road%20Accident/Road%20Accident%20Analysis.pdf)
-* #### [Sales Analytics Dashboard](https://github.com/ShreevaniRao/Power-BI/tree/main/Sales%20Analytics)
+* #### [Sales Analytics](https://github.com/ShreevaniRao/Power-BI/tree/main/Sales%20Analytics)[ Dashboard](https://github.com/ShreevaniRao/Power-BI/blob/main/Sales%20Analytics/SalesAnalyticsDashboard.png)
 
