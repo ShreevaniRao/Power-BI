@@ -57,6 +57,69 @@ This Power BI project showcases an in-depth sales analytics dashboard for TechSa
 
 The dashboard is published to Power BI Service, allowing for easy sharing and collaboration within the organization.
 
+# Executive Summary and Recommendations
+
+## Insights Found
+
+### Sales Performance
+- Sales showed a decline through 2024, but the company managed to maintain profitability due to effective cost management.
+- The highest sales were in January 2023, while the lowest sales were in December 2024.
+
+### Product Performance
+- **Top-Selling Products**: Smartwatch GT, Fitness Tracker, and Laptop Pro 15.
+- **High Average Sale Amounts**: Fitness Tracker, Smartwatch GT, and Gaming Console X.
+- **Low-Performing Products**: Smartphone XR and Laptop Pro 15.
+
+### Cost and Profit Analysis
+- The company achieved a healthy profit margin of 35.03%.
+- Costs were kept relatively stable, contributing to sustained profitability.
+
+### Salesperson Performance
+- **Top-Performing Salespersons**: David Brown, Carol Williams, and Alice Johnson.
+- **Lower Performing Salespersons**: Bob Smith and Eva Davis.
+
+## Operational Metrics
+- Total boxes sold and shipments were significant, with efficient management contributing to overall performance.
+- **High-Performing Regions**: USA and Canada.
+- **Emerging Markets**: India and Australia.
+
+### Recommendations for Improvements
+
+1. **Focus on Top-Selling Products**
+   - Concentrate marketing efforts on top-selling products like Smartwatch GT, Fitness Tracker, and Laptop Pro 15 to maximize sales.
+
+2. **Promote High Average Sale Products**
+   - Promote products with high average sale amounts, such as Fitness Tracker and Smartwatch GT, through targeted advertising campaigns.
+
+3. **Investigate Low-Performing Products**
+   - Analyze and address the reasons for the low performance of products like Smartphone XR and Laptop Pro 15.
+
+4. **Expand Successful Products to New Geographies**
+   - Expand the availability of successful products to new regions with similar demographics to boost sales.
+
+5. **Optimize Inventory Management**
+   - Ensure high-demand products are always in stock to prevent lost sales and adjust inventory levels based on sales forecasts.
+
+6. **Enhance Product Features and Variants**
+   - Introduce new features or variants for high-selling products to attract more customers.
+
+7. **Leverage Seasonal Trends**
+   - Plan marketing campaigns around seasonal trends to capitalize on high-demand periods.
+
+8. **Recognize and Reward Top-Performing Salespersons**
+   - Recognize and reward top-performing salespersons to motivate them and others to maintain or improve their performance.
+
+9. **Provide Additional Training or Support to Low-Performing Salespersons**
+   - Offer additional training or support to salespersons with lower performance to help them improve.
+
+10. **Cost Optimization**
+    - Conduct a detailed cost analysis to identify areas for cost reduction without compromising quality or customer satisfaction.
+
+11. **Customer Feedback and Reviews**
+    - Encourage customers to leave reviews and feedback to make improvements and build trust and credibility.
+
+By implementing these recommendations, the company can optimize product sales, improve customer satisfaction, and drive overall business growth. 
+
 ## Skills Learned & Demonstrated
 
 ### Functions Learned
