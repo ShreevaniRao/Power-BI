@@ -145,3 +145,6 @@ By implementing these recommendations, the company can optimize product sales, i
 
 This project demonstrates proficiency in Power BI development, from data modeling to advanced visualization techniques, showcasing the ability to create insightful and interactive business intelligence solutions tailored to derive sales business insights.
 
+## Acknowledgments
+
+Special thanks to **[Chandoo](https://www.youtube.com/watch?v=ooJO7NW4uJU&t=755s&ab_channel=Chandoo)** for the insightful tutorials on Power BI, which greatly assisted in the development of this dashboard.
