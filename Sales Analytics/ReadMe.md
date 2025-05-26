@@ -1,5 +1,5 @@
 # Project Overview
-This Power BI project showcases an in-depth sales analytics dashboard for TechSavvy, a fictional technology gadgets and appliances company. The dashboard provides comprehensive insights into sales performance, profitability, and operational metrics.
+This Power BI project showcases an in-depth sales analytics dashboard for TechSavvy, a technology gadgets and appliances company. The dashboard provides comprehensive insights into sales performance, profitability, and operational metrics.
 
 ![image](https://github.com/ShreevaniRao/Power-BI/blob/main/Sales%20Analytics/SalesAnalyticsDashboard.png)
 
